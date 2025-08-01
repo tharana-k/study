@@ -1,0 +1,101 @@
+.contents{
+    background: hsl(0, 0%, 0%);
+    color: #ffc0cb;
+    padding: 20px;
+    width: 20%;
+    margin: 0 auto;
+}
+.registerwrap{
+    width: 30%;
+    margin: 0 auto;
+    background-color: #deb887;
+    padding: 20px;
+}
+
+.registerwrap h1{
+    color: #fff;
+}
+.wrap{
+    margin-bottom: 20px;
+}
+label{
+    display: inline-block;
+    width: 140px;
+    text-align: left;
+}
+
+table,td,tr,th{
+    text-align: center;
+    border: 2px solid #000;
+    border-collapse: collapse;
+}
+.table2{
+    text-align: center;
+    width: 100%;
+    height: 50%;
+ margin-top: 20px;
+ background-color: #f6ff70;
+}
+.offclass{
+    background-color: #ff4c4c;
+}
+.table-bottomh{
+    text-align: center;
+}
+.table3 th{
+    text-decoration: underline;
+}
+.lists{
+    background-color: yellow;
+    width: max-content;
+    padding: 20px;
+    margin-top: 20px;
+}
+li{
+    font-size: 20px;
+}
+.table4{
+    margin-top: 38px;
+}
+.table5 td{
+    text-align: left;
+    border: none;
+    width: 100%;
+}
+.table5 tr,.table5{
+    border: none; 
+    
+}
+.table5{
+    width: 42%;
+}
+.sameline{
+    display: flex;
+
+}
+.title{
+    font-weight: bold;
+}
+
+.second-field{
+    margin-left: 20px;
+}
+.table5 button{
+    padding: 10px 28px;
+    border-radius: 7px;
+    border: 1px solid #ddd;
+}
+.table5 input{
+padding: 6px;
+margin-top: 12px;
+border: 1px solid #ddd;
+}
+.table5 textarea,.table5 select{
+    padding: 6px;
+    margin-top: 12px;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+.table5 label{
+    margin-top: 3px;   
+}
